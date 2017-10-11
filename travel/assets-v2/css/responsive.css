@@ -1,0 +1,787 @@
+@media (max-width: 1200px) {
+    .s-divers h3 {
+        font-size: 15px;
+    }
+.owl-prev, .owl-next {
+    left: -165px;
+}
+    .owl-next {
+    right: -193px;
+    left: initial;
+}
+    .blocksis3 .sl-effect {
+    font-size: 17px;
+    }
+    .mainPkgD p {
+        font-size: 17px;
+    }
+    .blocksis span {
+        width: 87.7%;
+    }
+    .main-h2 {
+        width: 63%;
+    }
+    .main-content-btm-btm div div {
+        font-size: 32px;
+    }
+    ul.flights-sec-ul a {
+        font-size: 11px;
+    }
+    select.form-control {
+        width: 65px;
+    }
+    .mainPkgD span.car-name.pack-name {
+        font-size: 20px;
+    }
+    .mainPkgD h2 {
+        font-family: dense;
+        font-size: 30px;
+    }
+    .detail-img {
+    width: 36%;
+    padding-top: 9%;
+}
+    .f-right {
+    width: 63%;
+}
+}
+
+@media (max-width: 992px) {
+  .f-right, .detail-img {
+    float: left;
+    width: 100% !Important;
+    padding: 0 !important;
+}
+.sl-effect div {
+    display: inline-block;
+    width: 65%;
+    padding: 5px;
+    padding-bottom: 3px;
+    font-size: 15px;
+}
+      .sl-effect div:last-child {
+    text-align: right;
+    font-size: 12px;
+    color: #218DCB;
+    width: 32%;
+}
+    .footer-column h2 {
+    width: 196px;
+}
+    .footer-column h2 {
+        font-size: 20px;}
+    .owl-prev, .owl-next {
+    position: relative !important;
+    display: none !important;
+}
+    .mainPkgD ul.daters.dates {
+        font-size: 12px;
+    }
+    ul.daters>li span:last-child {
+        color: black;
+        font-size: 12px;
+    }
+    .mainPkgD p {
+        font-size: 13px;
+    }
+    .mainPkgD span.car-name.pack-name+span {
+        font-size: 14px;
+    }
+    .mainPkgD span.car-name.pack-name {
+        font-size: 18px;
+    }
+    .mainPkgD h2 {
+        font-family: dense;
+        font-size: 27px;
+    }
+    .mainPkgD a.btn.btn-default.btn-h-pkg {
+        padding: 2px 3px;
+        margin-top: 4px;
+        font-size: 11px;
+    }
+    .mainPkgD p {
+        font-size: 11px;
+        padding-bottom: 6px;
+        padding-top: 4px;
+    }
+    .rates,
+    .rates+p {
+        max-width: 137px;
+    }
+    .blockses h3 {
+        font-size: 15px;
+        margin-top: 0px;
+        padding-top: 0px;
+    }
+    select.form-control {
+        width: 48px;
+        font-size: 8px
+    }
+    .blocksis span {
+        width: 84.7%;
+    }
+    .s-divers img {
+        float: none;
+        margin: auto;
+        display: block;
+    }
+    .btm-r {
+        margin-top: 9%;
+    }
+    .main-content-btm-btm div div {
+        font-size: 22px;
+    }
+    .main-h2 {
+        width: 83%;
+    }
+    .float-lf>div {
+        width: 43%;
+    }
+    .four-box h4 {
+        margin: 9px 0px;
+    }
+    .four-box>.boxes {
+        float: left;
+        margin-right: 13px;
+    }
+    .four-box {
+        max-width: 100%;
+    }
+    .left-text .main-h2 {
+        text-align: center;
+    }
+    .four-box h4 {
+        margin: 6px 0px;
+    }
+    .search-modal {
+        margin: auto;
+        position: absolute;
+        left: 43%;
+    }
+    ul.nav.navbar-nav {
+        margin-left: 5px;
+    }
+    a.navbar-brand {
+        max-width: 134px;
+        padding: 25px 3px;
+    }
+    .book-content {
+        max-width: 77%;
+    }
+    .book-btn-area {
+        width: 23%;
+    }
+    .placive-img {
+        margin-bottom: 20px;
+        margin-left: 20px;
+    }
+    img.float-img {
+        float: none !important;
+        display: block !important;
+        margin: auto;
+    }
+    ul.hajj-ul {
+        float: none !Important;
+    }
+    .pro-main:hover .hidden-Num a {
+        font-size: 22.9px;
+        background: rgba(51, 136, 216, 0.75);
+    }
+    .pro h3 {
+        height: 36px;
+    }
+    ul.footer-ul li {
+        margin-right: 2px;
+        margin-bottom: 5px;
+    }
+    .hidden-Num {
+        top: 43%;
+    }
+    ul.place-price2 a {
+        font-size: 11px;
+    }
+    .number {
+        right: 0%;
+    }
+    button.btn-searches+div {
+        width: 180px;
+    }
+    .navbar-default .navbar-nav>li>a {
+        font-size: 13px;
+        padding: 16px 21px;
+    }
+    .table-flights .nav-table-tabs li a {
+        padding: 0 !important;
+        width: 98px;
+        font-size: 10px !Important;
+        text-align: center;
+        padding: 10px 0 !important;
+    }
+    .btm-top-div img {
+        display: none;
+    }
+    .btm-top-div {
+        position: relative;
+        left: initial;
+        width: initial;
+    }
+    button.btn.btn-default {
+        margin: auto;
+        position: initial;
+        margin-top: 6px;
+        margin-bottom: 20px;
+    }
+    button.btn.btn-default.btn-fli {
+        position: initial;
+    }
+    .btm-top-1 h2 {
+        font-size: 20px;
+    }
+    .btm-top-2 h4 {
+        font-size: 20px;
+        margin: 22px 19px;
+        margin-bottom: 0;
+    }
+    section.content-bottom-top {
+        font-size: 17px;
+    }
+    .big-h img {
+        height: 288px;
+    }
+    body {
+        padding-bottom: 0px;
+    }
+    footer {
+        position: relative;
+    }
+    .contact-us {
+        margin-bottom: 0px;
+    }
+        
+    
+  .btm-l {
+    max-width: 17%;
+}
+.main-content-btm-btm div div {
+    font-size: 24px;
+}
+.btm-r {
+    margin-top: 3%;
+}
+}
+
+@media (max-width: 767px) {
+ 
+    .s-divers a {
+        width: 200px;
+        margin: auto;
+        margin-bottom: 15px;
+    }
+    select.form-control {
+        width: 100%;
+        font-size: 12px;
+    }
+    .modal-body button.btn.btn-default {
+        color: black;
+    }
+    .blocksis span {
+        width: 89.7%;
+    }
+    .main-h2 {
+        width: 181px;
+    }
+   .main-content-btm-btm div div {
+    float: none;
+    width: 100%;
+    margin: auto;
+    text-align: center;
+}
+    .btm-l {
+    max-width: 263px;
+}
+    .big-h img {
+        height: initial;
+    }
+    .main-diver .s-divers {
+        width: 200px;
+        float: left;
+        margin-left: 10px;
+    }
+    .float-right {
+        float: none;
+        width: 100%;
+        margin-bottom: 20px;
+    }
+    .floatness {
+        width: 100%;
+        overflow: hidden;
+    }
+    .floatness .col-sm-4:last-child {
+        margin-right: 0;
+    }
+    .floatness .col-sm-4 {
+        max-width: 26%;
+        float: left;
+        margin: auto;
+        margin-right: 11%;
+    }
+    .car-pro {
+        max-width: 322px;
+        margin: auto;
+        margin-bottom: 30px;
+    }
+    .floatness h3 {
+        font-size: 21px;
+    }
+    .nav-top {
+        font-size: 12px;
+    }
+    .blockses div {
+        overflow: hidden;
+        width: 300px;
+        margin: auto;
+        margin-bottom: 30px;
+    }
+    .top-nav-book h2 {
+        font-size: 15px;
+        font-weight: bold;
+        margin-top: 34px;
+    }
+    .tabs-div.container {
+        position: initial;
+        top: 0;
+    }
+    .carousel-indicators {
+        display: none;
+    }
+    .search-modal {
+        top: 0;
+        left: initial;
+        right: 15px;
+    }
+    .search-modal button.btn.btn-primary.btn-modal {
+        background: #3388D8;
+        color: white;
+    }
+    ul.nav.nav-tabs a {
+        font-family: Open Sans light;
+        padding: 3px 9.2px;
+        font-size: 13px;
+        margin-top: 14px;
+    }
+    ul.place-price2 a {
+        font-size: 15px;
+    }
+    .navbar-default {
+        height: auto;
+        min-height: auto;
+    }
+    div#bs-example-navbar-collapse-1 {
+        padding-left: 0;
+    }
+    a.navbar-brand {
+        max-width: initial;
+        padding: 17px 18px;
+    }
+    .navbar-default .navbar-nav>li>a {
+        padding: 10px 8px;
+        text-align: center;
+        max-width: 200;
+        margin: auto;
+    }
+    ul.nav.nav-tabs.nav-table-tabs {
+        max-width: 103px;
+    }
+    .book-content {
+        max-width: 100%;
+        float: none;
+    }
+    .footer-column {
+        border-right: 1px solid rgba(153, 153, 153, 0.2);
+        height: initial;
+        margin-bottom: 40px;
+    }
+    .footer-column:last-child {
+        margin-bottom: 0;
+    }
+    .book-btn-area {
+        width: 100%;
+        float: none;
+        text-align: center;
+        overflow: initial;
+        padding-bottom: 0;
+    }
+    .form-group.form-hidden-or-show {
+        position: relative;
+        top: -31px;
+        left: 34px;
+    }
+    
+    .main-form input {
+        margin-bottom: 15px;
+    }
+    select.form-control {
+        margin-bottom: 15px;
+    }
+    a.flight-deal>img {
+        display: block;
+        max-width: 277px;
+        margin: auto;
+    }
+    a.flight-deal {
+        margin-bottom: 20px;
+    }
+    .flights-content>div {
+        margin-bottom: 0;
+    }
+    .placive-img {
+        float: none;
+        max-width: 407px;
+        margin: auto;
+        margin-bottom: 20px;
+    }
+    .swip-img>img {
+        text-align: center;
+        display: inline;
+    }
+    .hidden-Num a {
+        text-align: center;
+        display: block;
+        width: 94%;
+    }
+    .hidden-Num {
+        width: 100%;
+    }
+    .three-rows>div {
+        font-size: 10px;
+    }
+    .caption-2 {
+        position: absolute;
+        bottom: 0px;
+        left: 15px;
+        right: 15px;
+    }
+    .four-box {
+        font-size: 12px;
+    }
+    .pro {
+        height: initial;
+    }
+    .pro h3 {
+        height: initial;
+    }
+    .car-pro.hotel-ex-2 {
+        width: 97%;
+    }
+    .car-pro.hotel-ex {
+        width: 100%;
+    }
+    .container.blockses.blockses2 div {
+        width: 100%;
+    }
+    .container.blockses.blockses2 div>div {
+        margin: auto;
+        float: none;
+        max-width: 292px;
+        margin-bottom: 20px;
+    }
+    .float-lf>div {
+        width: 262px !important;
+    }
+    .float-rl {
+        max-width: 263px !important;
+    }
+    body {
+        padding-bottom: 0px;
+    }
+    footer {
+        position: relative;
+    }
+    .btm-top-1 {
+        border-right: 0px solid white;
+    }
+    .tab-content.nav-table-tabs-content {
+        width: 159%;
+    }
+    ul.nav.nav-tabs.nav-table-tabs,
+    .tab-content.nav-table-tabs-content {
+        float: none;
+        max-width: initial;
+        width: 119%;
+    }
+    .table-flights {
+        width: 100%;
+        margin-bottom: 15px;
+        overflow-y: hidden;
+        -ms-overflow-style: -ms-autohiding-scrollbar;
+        border: 1px solid #ddd;
+        overflow-x: auto;
+    }
+    .table-flights .nav-tabs {
+        border-bottom: 1px solid #ddd;
+        width: 159%;
+    }
+    .modal.fade ul.nav.nav-tabs li a {
+        padding: 10px 23px;
+    }
+    .modal.fade ul.nav.nav-tabs li {
+        float: none;
+        width: 49%;
+        display: inline-block;
+    }
+    .nav-top ul.footer-ul-3 {
+        padding-bottom: 10px;
+    }
+    
+.hajj-block {
+    position: relative;
+    overflow: hidden;
+    background: white;
+    padding: 10px;
+    margin-bottom: 30px;
+    transition: all 0.5s;
+}
+.hajj-block img {
+    float: left;
+}
+.hajj-block img {
+    width: 100%;
+}
+.hajj-block>a, .mainPkgD {
+    float: left;
+    width: 50%;
+    text-align: center;
+    color: #666666;
+}
+.mainPkgD ul.daters.dates {
+    padding: 0;
+    margin: 0;
+    font-family: Open Sans;
+    font-weight: bold;
+    color: #167ec0;
+    background: transparent;
+    list-style-type: none;
+    padding: 0;
+    text-align: center;
+    font-size: 15px;
+}
+ul.daters.dates li {
+    margin-bottom: 0;
+}
+.mainPkgD a.btn.btn-default.btn-h-pkg {
+    margin: 0;
+    margin-top: 5px;
+    color: #167EC0;
+    font-family: lato;
+    font-weight: 500;
+    border-color: black;
+    font-size: 14px;
+    background: transparent;
+}
+.mainPkgD h2 {
+    font-family: dense;
+    font-size: 40px;
+    margin: 0;
+    margin-top: 5px;
+    line-height: 1;
+    margin-bottom: -7px;
+}
+.mainPkgD span.car-name.pack-name+span {
+    font-size: 16px;
+    font-family: open sans;
+    color: inherit;
+}
+.mainPkgD span.car-name.pack-name {
+    font-size: 25px;
+    font-weight: bold;
+    font-family: open sans;
+    color: inherit;
+}
+.rates, .rates+p {
+    border-bottom: 1px solid #167EC0;
+    max-width: 226px;
+    margin: auto;
+}
+.mainPkgD p {
+    font-size: 18px;
+    color: #228dcd;
+    font-family: lato;
+    line-height: 1;
+    font-style: italic;
+    padding-bottom: 10px;
+    padding-top: 7px;
+}
+.mainPkgD a.btn.btn-default.btn-h-pkg:hover {
+    background: #063E57;
+    color: white;
+}
+.hajj-block:hover {
+    transform: scale(1.2,1.1);
+}
+       
+.blocksis3 div{ 
+    margin-bottom: 0px !important;
+}
+    .sl-effect div {
+    width: 49% !important;
+    float: left;
+}
+    .caro {
+    font-size: 20px;
+}
+}
+
+@media (max-width: 530px) {
+    .nav-top ul.footer-ul-3>li {
+        float: left;
+        margin-right: 12px;
+    }
+    .top-nav-book h2 {
+        margin-top: 0px;
+    }
+    .top-nav-book {
+        float: right;
+        text-align: center;
+        display: block;
+        width: 100%;
+    }
+    .nav-top ul.footer-ul-3 {
+        list-style-type: none;
+        padding: 0;
+        overflow: hidden;
+        display: block;
+        text-align: center;
+        width: 300px;
+        padding-bottom: 10px;
+        margin: auto;
+    }
+    a.navbar-brand {
+        max-width: initial;
+        padding: 17px 18px;
+        float: none;
+        margin: auto;
+        overflow: hidden;
+        display: block;
+        width: 227px;
+    }
+      .mainPkgD ul.daters.dates {
+        font-size: 12px;
+    }
+    ul.daters>li span:last-child {
+        color: black;
+        font-size: 12px;
+    }
+    .mainPkgD p {
+        font-size: 13px;
+    }
+    .mainPkgD span.car-name.pack-name+span {
+        font-size: 14px;
+    }
+    .mainPkgD span.car-name.pack-name {
+        font-size: 18px;
+    }
+    .mainPkgD h2 {
+        font-family: dense;
+        font-size: 27px;
+    }
+    .mainPkgD a.btn.btn-default.btn-h-pkg {
+        padding: 2px 3px;
+        margin-top: 4px;
+        font-size: 11px;
+    }
+    .mainPkgD p {
+        font-size: 11px;
+        padding-bottom: 6px;
+        padding-top: 4px;
+    }
+    .rates,
+    .rates+p {
+        max-width: 137px;
+    }
+}
+
+@media (max-width: 510px) {
+    .jumbotron {
+        padding: 30px 0px;
+    }
+}
+
+@media (max-width: 470px) {
+    .camera_wrap {
+        height: 240px !important;
+        width: 100%;
+        max-height: 224px;
+    }
+    .number {
+        right: 0%;
+        top: 13%;
+    }
+    .number a {
+        font-size: 10px;
+        color: #D6CA97;
+    }
+    .form-group.form-hidden-or-show {
+        max-width: 1000%;
+        width: 100%;
+    }
+}
+
+@media (max-width: 440px) {
+    a.navbar-brand {
+        max-width: 242px;
+        margin: auto;
+        overflow: hidden;
+        display: block;
+        padding: 5px;
+        height: initial;
+    }
+    button.navbar-toggle {
+        margin: 5px;
+    }
+    .table-flights .tab-content {
+        width: 220%;
+    }
+    .table-flights .nav-tabs {
+        border-bottom: 0;
+        width: 220%;
+    }
+    .navbar-brand>img {
+        height: 70px;
+        margin: auto;
+    }
+}
+
+@media (max-width: 380px) {
+    ul.hajj-ul span:last-child {
+        max-width: 74%;
+        width: 74%;
+        float: none;
+    }
+    ul.hajj-ul span {
+        max-width: 100%;
+        width: 100%;
+    }
+    .four-box,
+    .number {
+        display: none;
+    }
+    div#newsUpdate li,
+    div#newsUpdate2 li {
+        font-size: 11px;
+    }
+    .hajj-block>a, .mainPkgD {
+    float: none;
+        width: 100%;}
+}
+
+@media (max-width: 319px) {
+    .pro.pro-1 {
+        width: 100%;
+    }
+    .pro-main img.img-responsive {
+        width: 100%;
+    }
+    .flights-section div {
+        width: 100%;
+    }
+}

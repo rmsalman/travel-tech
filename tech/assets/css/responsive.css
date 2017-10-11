@@ -1,0 +1,96 @@
+@media (max-width:1200px) {
+    body {
+        padding-bottom: 540px;
+    }
+    .top-nav-book h2 {
+        margin-top: 25px;
+    }
+    .main-content-btm-btm div div {
+        font-size: 30px;
+    }
+    .btm-r {
+        margin-top: 6%;
+    }
+    ul.c-ul {
+        font-size: 13px;
+    }
+    
+.c-div h5 {
+    font-size: 15px;
+}
+    .btn3 {
+    min-width: initial;
+    }
+
+
+
+}
+@media (max-width:991px) {
+nav.navbar .nav>li>a {
+    padding: 12px 29.3px;
+}
+    .btm-l {
+    max-width: 17%;
+}
+.main-content-btm-btm div div {
+    font-size: 24px;
+}
+.btm-r {
+    margin-top: 3%;
+}
+body {
+    padding-bottom: 620px;
+}
+    
+    
+    
+    
+    
+    
+    
+
+}
+
+
+@media (max-width:768px) {
+        
+footer {
+    position: relative;
+}
+body {
+    padding-bottom: 0;
+}
+    .navbar-default {
+    height: initial;
+    text-align: center;
+}
+    nav.navbar .nav>li>a {
+    padding: 12px 0 !important;
+    max-width: 200px;
+    margin: auto;
+}
+    .main-serches {
+    overflow: hidden;
+    height: initial;
+}
+   .main-content-btm-btm div div {
+    float: none;
+    width: 100%;
+    margin: auto;
+    text-align: center;
+}
+   .btm-l {
+    max-width: 263px;
+}
+    
+}
+
+
+@media (max-width:400px) {
+.main-serches>div {
+    float: none;
+    display: block;
+    overflow: hidden;
+}
+    
+}
